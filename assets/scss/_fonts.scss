@@ -5,8 +5,8 @@
   font-display: auto;
   font-weight: 200;
   src:
-    url("../static/fonts/FiraCodeNerdFont-Light.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-Light.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-Light.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFont-Light.woff") format("woff");
 }
 
 @font-face {
@@ -15,8 +15,8 @@
   font-display: auto;
   font-weight: 400;
   src:
-    url("../static/fonts/FiraCodeNerdFont-Regular.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-Regular.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-Regular.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFont-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -25,8 +25,8 @@
   font-display: auto;
   font-weight: 500;
   src:
-    url("../static/fonts/FiraCodeNerdFont-Retina.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-Retina.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-Retina.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFont-Retina.woff") format("woff");
 }
 
 @font-face {
@@ -35,9 +35,9 @@
   font-display: auto;
   font-weight: 600;
   src:
-    url("../static/fonts/FiraCodeNerd FiraCodeNerdFont-Medium.woff2")
+    url("fonts/FiraCodeNerd FiraCodeNerdFont-Medium.woff2")
       format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-Medium.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -46,8 +46,8 @@
   font-display: auto;
   font-weight: 700;
   src:
-    url("../static/fonts/FiraCodeNerdFont-SemiBold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-SemiBold.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-SemiBold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFont-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -56,8 +56,8 @@
   font-display: auto;
   font-weight: 800;
   src:
-    url("../static/fonts/FiraCodeNerdFont-Bold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFont-Bold.woff") format("woff");
+    url("fonts/FiraCodeNerdFont-Bold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFont-Bold.woff") format("woff");
 }
 
 /* FiraCodeNerdFont Mono */
@@ -67,8 +67,8 @@
   font-display: auto;
   font-weight: 200;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-Light.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-Light.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-Light.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-Light.woff") format("woff");
 }
 
 @font-face {
@@ -77,8 +77,8 @@
   font-display: auto;
   font-weight: 400;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-Regular.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-Regular.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-Regular.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -87,8 +87,8 @@
   font-display: auto;
   font-weight: 500;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-Retina.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-Retina.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-Retina.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-Retina.woff") format("woff");
 }
 
 @font-face {
@@ -97,8 +97,8 @@
   font-display: auto;
   font-weight: 600;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-Medium.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-Medium.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-Medium.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -107,8 +107,8 @@
   font-display: auto;
   font-weight: 700;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-SemiBold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-SemiBold.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-SemiBold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -117,8 +117,8 @@
   font-display: auto;
   font-weight: 800;
   src:
-    url("../static/fonts/FiraCodeNerdFontMono-Bold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontMono-Bold.woff") format("woff");
+    url("fonts/FiraCodeNerdFontMono-Bold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontMono-Bold.woff") format("woff");
 }
 
 /* FiraCodeNerdFont Propo */
@@ -128,8 +128,8 @@
   font-display: auto;
   font-weight: 200;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-Light.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-Light.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-Light.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-Light.woff") format("woff");
 }
 
 @font-face {
@@ -138,8 +138,8 @@
   font-display: auto;
   font-weight: 400;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-Regular.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-Regular.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-Regular.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -148,8 +148,8 @@
   font-display: auto;
   font-weight: 500;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-Retina.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-Retina.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-Retina.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-Retina.woff") format("woff");
 }
 
 @font-face {
@@ -158,8 +158,8 @@
   font-display: auto;
   font-weight: 600;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-Medium.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-Medium.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-Medium.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -168,8 +168,8 @@
   font-display: auto;
   font-weight: 700;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-SemiBold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-SemiBold.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-SemiBold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -178,6 +178,6 @@
   font-display: auto;
   font-weight: 800;
   src:
-    url("../static/fonts/FiraCodeNerdFontPropo-Bold.woff2") format("woff2"),
-    url("../static/fonts/FiraCodeNerdFontPropo-Bold.woff") format("woff");
+    url("fonts/FiraCodeNerdFontPropo-Bold.woff2") format("woff2"),
+    url("fonts/FiraCodeNerdFontPropo-Bold.woff") format("woff");
 }
